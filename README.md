@@ -25,7 +25,9 @@ CV: [PDF](./CVs/Alexandra_Parshintseva_CV.pdf)
 - Testing: JUnit, Mockito, integration testing basics, Postman  
 - Observability: logging basics, metrics/monitoring basics  
 - Data analysis: Power BI, Google Colab, Excel  
-- Math & modeling: MATLAB, Octave  
+- Python for data analysis: pandas, NumPy, Matplotlib  
+- Math & modeling: calculus fundamentals, MATLAB, Octave  
+- DSP: basic Digital Signal Processing (DSP) algorithms  
 
 ---
 
