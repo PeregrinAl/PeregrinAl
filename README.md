@@ -1,4 +1,4 @@
-# Hi! I am Alexandra Parshintseva
+# 🦋 Hi! I am Alexandra Parshintseva
 
 Backend Developer | Data Analyst  
 Saint Petersburg, Russia · remote · hybrid · on-site
