@@ -33,19 +33,8 @@ CV: [PDF](./CVs/Alexandra_Parshintseva_CV.pdf)
 
 ## Repositories
 
-### Backend and APIs
-- [plantops-monitoring-api](https://github.com/<your-github>/plantops-monitoring-api) — REST API for equipment monitoring with roles, logging, and metrics. Tech stack: Java, Spring Boot, PostgreSQL, Docker  
-- [warehouse-etl-service](https://github.com/<your-github>/warehouse-etl-service) — data ingestion and validation service with quality reporting. Tech stack: Python, PostgreSQL, Docker, CI/CD  
-
-### Analytics and dashboards
-- [sales-insights-powerbi](https://github.com/<your-github>/sales-insights-powerbi) — dashboards and a data model for tracking sales trends and segments. Tech stack: Power BI, Excel  
-- [analysis-notebooks-colab](https://github.com/<your-github>/analysis-notebooks-colab) — notebooks with prototypes, data prep, and conclusions. Tech stack: Python, Google Colab  
-
-### Native libraries and algorithms
-- [native-math-toolkit](https://github.com/<your-github>/native-math-toolkit) — a small toolkit for numerical experiments and performance checks. Tech stack: C++, native libraries  
-
-### (Sample category) Industrial experiments
-- [factory-sim-lab](https://github.com/<your-github>/factory-sim-lab) — simulation and calculation prototypes for industrial processes. Tech stack: MATLAB, Octave, Python  
+### (Sample category)
+- [name](https://github.com/<your-github>/factory-sim-lab) — description
 
 ---
 
